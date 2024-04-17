@@ -86,3 +86,6 @@ This section contains helpful links to related content. It isn't required, so co
 - [Learn CSS Layout](https://learnlayout.com/no-layout.html) is tutorial that is a little dated at this point, but its examples are clear. The first 6 slides cover the material we've seen so far.
 - Watch this short video on [what the term “Normal Flow” means](https://www.youtube.com/watch?v=nfXRw06FgK8) in CSS.
 - For a more interactive explanation and example, try this [Scrim on block and inline display](https://scrimba.com/scrim/co5024997a7e46c232d9abe55).
+
+##
+This is my change for the purpose of working on the lesson on working with git in the real world
